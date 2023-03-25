@@ -44,7 +44,47 @@ Click this image to watch the lecture or here is the lecture [link](https://www.
 
 [<img src="./resources_ramzan_batch/thumbnails/ramzan1.png" width="50%">](https://www.youtube.com/live/RJskNduejxA?feature=share "What is Data Science?")
 
+## 2. **Dusra Roza**
 
+Dusray lectrue maine ham seekhen gay k Data kia hta hy and also:
+- Primary vs. secondary data
+- Structured vs. unstructured data
+- Data types
+  - Categorical vs. numerical
+  - Qualitative vs. quantitative
+  - Nominative vs. ordinal
+  - Discrete vs. continuous
+
+[<img src="./resources_ramzan_batch/thumbnails/ramzan2.png" width="50%">](https://youtube.com/live/2G1qxtKHOaM "Types of Data")
+
+## 3. **Teesra Roza**
+
+> ### **Installation of Python and VScode**
+> 
+> Python ko seekhnay se pehlay usay install karna zaroori hy or yahan ham 2 software install karen gay:\
+>       1. Python form [this link](https://www.python.org/downloads/)\
+>       2. VScode (Vidual Studio Code) from [this link](https://code.visualstudio.com/)\
+
+Urdu main ham ne in software ko install krne ka tareeqa bhi bta dea hy, neechay image per click kar k video dekh saktay hyn. 
+
+[![Installation of Python and other software](./resources/../resources_ramzan_batch/thumbnails/installation.png)](https://youtu.be/zcqW7Hp-FVk)
+
+> ### **Write your first line of code with us**
+> Is video main hame dekhen gay k ap ne installation k baad first line of code kaisay likhni hy
+> 
+> Lecture ko Urdu video main sunnay k liay is imagae per click karen
+>
+[![Write your first line of code](./resources_ramzan_batch/thumbnails/first_line.png)](https://youtu.be/4T3cIOi61cg)
+
+
+Python Programming (Python-101) by clicking on this:\
+[<img src="./resources_ramzan_batch/thumbnails/Day3.png" width="42%">](https://youtu.be/930zolu8E2g "Python-101 COmplete Python?")
+
+## 4. **Chautha Roza**
+
+Revise this lecture and finish this asap.\
+Python Programming (Python-101) by clicking on this:\
+[<img src="./resources_ramzan_batch/thumbnails/Day3.png" width="42%">](https://youtu.be/930zolu8E2g "Python-101 COmplete Python?")
 
 
 
