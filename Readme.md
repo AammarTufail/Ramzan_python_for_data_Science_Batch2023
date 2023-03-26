@@ -88,5 +88,8 @@ Revise this lecture and finish this asap.\
 Python Programming (Python-101) by clicking on this:\
 [<img src="./resources_ramzan_batch/thumbnails/Day3.png" width="42%">](https://youtu.be/930zolu8E2g "Python-101 COmplete Python?")
 
+Click here to watch the lecture:\
+[<img src="./resources_ramzan_batch/thumbnails/ramzan4.png" width="42%">](https://youtube.com/live/g5vHF8m8C0o "Dat Types in Python")
+
 
 
