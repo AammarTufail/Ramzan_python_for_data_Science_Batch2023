@@ -35,6 +35,8 @@
   - [Hands on Exploratory Data analysis with Python](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python)
   - [Data Wranglin in Python](https://github.com/TrainingByPackt/Data-Wrangling-with-Python)
 
+## **Important note:**
+Mathematics for Data Science ki ye playlist ap ne regular basis per dekhtay jani hy, rozana ham 2-3 lectures upload karen gay, ye is course ka main hissa hy, [Mathematics with codanics playlist link.](https://youtube.com/playlist?list=PL9XvIvvVL50G3-_NMFreX72zbICK9-NW-)
 
 ## 1. **Pehla Roza**
 
