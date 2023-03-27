@@ -92,4 +92,51 @@ Click here to watch the lecture:\
 [<img src="./resources_ramzan_batch/thumbnails/ramzan4.png" width="42%">](https://youtube.com/live/g5vHF8m8C0o "Dat Types in Python")
 
 
+## 5. **5th Roza**
+
+> ### **ABC of Statistics (Part-1)**
+
+Click here to watch the lecture:\
+[<img src="./resources_ramzan_batch/thumbnails/5a.png" width="42%">](https://www.youtube.com/watch?v=9F5CVyHWBKo&list=PL9XvIvvVL50H2YCvuZklqjBiqsJt_0KWI&index=1&t=49s "Statistics-1")
+
+> ### **ABC of Statistics (Part-2)**
+
+Click here to watch the lecture:\
+[<img src="./resources_ramzan_batch/thumbnails/5b.png" width="42%">](https://www.youtube.com/watch?v=ql4Rqx0XZIk&list=PL9XvIvvVL50H2YCvuZklqjBiqsJt_0KWI&index=2&t=1s "Statistics-2")
+
+> ### **ABC of Statistics (Part-3)**
+
+Click here to watch the lecture:\
+[<img src="./resources_ramzan_batch/thumbnails/5c.png" width="42%">](https://www.youtube.com/watch?v=i1ZDDN8XcOY&list=PL9XvIvvVL50H2YCvuZklqjBiqsJt_0KWI&index=3&t=672s "Statistics-3")
+
+
+## 6. **6th Roza**
+
+> ### **ABC of Statistics (Part-4)**
+
+Click here to watch the lecture:\
+[<img src="./resources_ramzan_batch/thumbnails/6a.png" width="42%">](https://www.youtube.com/watch?v=aFPpXIdEBnA&list=PL9XvIvvVL50H2YCvuZklqjBiqsJt_0KWI&index=4 "Statistics-4")
+
+> ### **ABC of Statistics (Part-5)**
+
+Click here to watch the lecture:\
+[<img src="./resources_ramzan_batch/thumbnails/6b.png" width="42%">](https://www.youtube.com/watch?v=Wl28DaEoZXc&list=PL9XvIvvVL50H2YCvuZklqjBiqsJt_0KWI&index=5&t=412s "Statistics-5")
+
+> ### **ABC of Statistics (Part-6)**
+
+Click here to watch the lecture:\
+[<img src="./resources_ramzan_batch/thumbnails/6c.png" width="42%">](https://www.youtube.com/watch?v=1kldE86nL9E&list=PL9XvIvvVL50H2YCvuZklqjBiqsJt_0KWI&index=6&t=155s "Statistics-6")
+
+## 7. **7th Roza**
+> ### **ABC of Statistics (Part-7)**
+
+Click here to watch the lecture:\
+[<img src="./resources_ramzan_batch/thumbnails/7a.png" width="42%">](https://www.youtube.com/watch?v=UFVyzGZpUWE&list=PL9XvIvvVL50H2YCvuZklqjBiqsJt_0KWI&index=7&t=110s "Statistics-7")
+
+> ### **ABC of Statistics (Part-8)**
+
+Click here to watch the lecture:\
+[<img src="./resources_ramzan_batch/thumbnails/7b.png" width="42%">](https://www.youtube.com/watch?v=I9VI5_DkZoU&list=PL9XvIvvVL50H2YCvuZklqjBiqsJt_0KWI&index=8&t=13s "Statistics-8")
+
+
 
