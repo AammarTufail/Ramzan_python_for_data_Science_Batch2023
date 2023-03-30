@@ -138,5 +138,9 @@ Click here to watch the lecture:\
 Click here to watch the lecture:\
 [<img src="./resources_ramzan_batch/thumbnails/7b.png" width="42%">](https://www.youtube.com/watch?v=I9VI5_DkZoU&list=PL9XvIvvVL50H2YCvuZklqjBiqsJt_0KWI&index=8&t=13s "Statistics-8")
 
+## 8. **8th Roza**
 
+> ### **Data Loading in Python to Data Visualization**
 
+Click here to watch the lecture:\
+[<img src="./resources_ramzan_batch/thumbnails/8.png" width="42%">](https://www.youtube.com/live/CYCvx1MBSIo?feature=share "Data Loading in Python to Data Visualization")
