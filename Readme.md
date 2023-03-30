@@ -143,4 +143,4 @@ Click here to watch the lecture:\
 > ### **Data Loading in Python to Data Visualization**
 
 Click here to watch the lecture:\
-[<img src="./resources_ramzan_batch/thumbnails/8.png" width="42%">](https://www.youtube.com/live/CYCvx1MBSIo?feature=share "Data Loading in Python to Data Visualization")
+[<img src="./resources_ramzan_batch/thumbnails/8th_Ramzan.png" width="42%">](https://www.youtube.com/live/CYCvx1MBSIo?feature=share "Data Loading in Python to Data Visualization")
