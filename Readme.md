@@ -144,3 +144,11 @@ Click here to watch the lecture:\
 
 Click here to watch the lecture:\
 [<img src="./resources_ramzan_batch/thumbnails/8th_Ramzan.png" width="42%">](https://www.youtube.com/live/CYCvx1MBSIo?feature=share "Data Loading in Python to Data Visualization")
+
+
+## 9. **9th Roza**
+
+> ### **Data Visualization in Python**
+
+Click here to watch the lecture:\
+[<img src="./resources_ramzan_batch/thumbnails/9th_Ramzan.png" width="42%">](https://youtube.com/live/5ndtnjYmig8 "Data Visualization in Python")
