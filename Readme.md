@@ -152,3 +152,20 @@ Click here to watch the lecture:\
 
 Click here to watch the lecture:\
 [<img src="./resources_ramzan_batch/thumbnails/9th_Ramzan.png" width="42%">](https://youtube.com/live/5ndtnjYmig8 "Data Visualization in Python")
+
+
+## 10. **10th Roza**
+
+> ### **Data Night with R**
+
+Practice on the basic concepts of Data Science with another perspective with R programming.
+
+Click here to watch the lecture:\
+[<img src="./resources_ramzan_batch/thumbnails/10.png" width="42%">](https://youtube.com/live/FcEiqKD8mXg "Data Visualization in Python")
+
+## 11. **11th Roza**
+
+> ### **Exploratory Data Analysis in Python**
+
+Click here to watch the lecture:\
+[<img src="./resources_ramzan_batch/thumbnails/11.png" width="42%">](https://www.youtube.com/live/JLLvMdEYvE8?feature=share "Data Visualization in Python")
