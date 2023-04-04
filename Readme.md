@@ -169,3 +169,22 @@ Click here to watch the lecture:\
 
 Click here to watch the lecture:\
 [<img src="./resources_ramzan_batch/thumbnails/11.png" width="42%">](https://www.youtube.com/live/JLLvMdEYvE8?feature=share "Data Visualization in Python")
+
+## 12. **12th Roza**
+
+Read the following and practice on the basic concepts of using pandas library to deal with the data.
+
+Click here to watch and practice from website:\
+[<img src="./resources_ramzan_batch/thumbnails/12.png" width="42%">](https://pandas.pydata.org/docs/user_guide/10min.html "10 minutes to pandas")
+
+[Click here to watch the link and practice](https://pandas.pydata.org/docs/user_guide/10min.html)
+
+
+## 13. **13th Roza**
+
+Practice in Markdown and here is the link to the lecture:
+
+Click here to watch the lecture:\
+[<img src="./resources_ramzan_batch/thumbnails/13.png" width="42%">](https://www.youtube.com/watch?v=qJqAXjz-Rh4&t=5s&ab_channel=Codanics "MarkDown in 72 minutes")
+
+[MarkDown in 72 minutes](https://www.youtube.com/watch?v=qJqAXjz-Rh4&t=5s&ab_channel=Codanics)
