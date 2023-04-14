@@ -313,7 +313,8 @@ Practice on EDA Analysis with previous lectrues
 
 ## 24. **24th Roza- Question Answers and Details of ROADmap**
 
-(Coming soon)
+Click here to watch the lectures:\
+[<img src="./resources_ramzan_batch/thumbnails/24.png" width="42%">](https://youtube.com/live/zY2w3Af9M6M "Day 24 Last Day of Data Science for Ramzan Batch")
 
 # **Bonus courses**
 
