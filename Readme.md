@@ -170,6 +170,11 @@ Click here to watch the lecture:\
 Click here to watch the lecture:\
 [<img src="./resources_ramzan_batch/thumbnails/11.png" width="42%">](https://www.youtube.com/live/JLLvMdEYvE8?feature=share "Data Visualization in Python")
 
+
+> **Assignment: Do the same steps on `Titanic` Dataset by loading `sns.load_dataset("titanic")`.**
+
+
+
 ## 12. **12th Roza**
 
 Read the following and practice on the basic concepts of using pandas library to deal with the data.
@@ -188,3 +193,119 @@ Click here to watch the lecture:\
 [<img src="./resources_ramzan_batch/thumbnails/13.png" width="42%">](https://www.youtube.com/watch?v=qJqAXjz-Rh4&t=5s&ab_channel=Codanics "MarkDown in 72 minutes")
 
 [MarkDown in 72 minutes](https://www.youtube.com/watch?v=qJqAXjz-Rh4&t=5s&ab_channel=Codanics)
+
+## 14. **14th Roza**
+
+Aaj k is lecture main ham aik dataset k oper EDA analysis karen gay. 
+
+Click here to watch and practice from website:\
+[<img src="./resources_ramzan_batch/thumbnails/14.png" width="42%">](link "EDA for beginners")
+
+## 15. **15th Roza - Doing EDA in Python**
+
+Exploratory data analysis is a very important part of data science. It is the process of analyzing the data to understand the data. It is also known as the exploratory data analysis or EDA, or `Data ko soonghna`. 
+
+Steps of EDA in python:
+
+1. Import the required libraries.
+2. Import the dataset.
+3. Understand the data.
+4. Perform EDA.
+5. Visualize the data.
+7. Conclusion.
+
+Itna b asan nahi hy, aaj k is lecture main ham aik dataset k oper EDA analysis karen gay.
+
+Click here to watch the lecture:\
+[<img src="./resources_ramzan_batch/thumbnails/15.png" width="42%">](https://www.youtube.com/live/-hjdm00adeo?feature=share "EDA")
+
+## 16. **16th Roza- Step by Step EDA on Big Dataset (1/4)**
+
+> ### **Step by Step EDA (1/4)**
+
+Click here to watch the lecture:\
+[<img src="./resources_ramzan_batch/thumbnails/16.png" width="42%">](https://www.youtube.com/live/olFuszziFJY?feature=share "EDA Part 1")
+
+## 17. **17th Roza- Step by Step EDA on Big Dataset (2/4)**
+
+> ### **Step by Step EDA (2/4)**
+
+Click here to watch the lecture:\
+[<img src="./resources_ramzan_batch/thumbnails/17.png" width="42%">](https://www.youtube.com/live/NZ62PzN434w?feature=share "EDA Part 2")
+
+## 18. **18th Roza- Step by Step EDA on Big Dataset (3/4)**
+
+> ### **Step by Step EDA (3/4)**
+
+Click here to watch the lecture:\
+[<img src="./resources_ramzan_batch/thumbnails/18.png" width="42%">](https://www.youtube.com/live/fr4mHOOZXsg?feature=share "EDA Part 3")
+
+## 19. **19th Roza- Step by Step EDA on Big Dataset (4/4)**
+
+Is main ham poora EDA bnana seekhen gay In sha Allah
+
+> ### **Step by Step EDA (4/4)**
+
+Click here to watch the lecture:\
+[<img src="./resources_ramzan_batch/thumbnails/19.png" width="42%">](https://www.youtube.com/live/xWFf66lvagM?feature=share "EDA Part 4")
+
+## 20. **20th Roza- Practice on EDA analysis on your Dataset**
+
+Click here to Join the discord Channel Data Science ka Yoga:\
+[<img src="./resources_ramzan_batch/thumbnails/20.png" width="42%">](https://discord.gg/MMwKHWM6 "Statistics for Data Science ka Yoga")
+
+You can join the following Discord channel to practice with the team:
+
+> 1. [Discord channel of `Data Science ka Yoga`](https://discord.gg/MMwKHWM6)
+> 2. [Discord Channel for Ramzan Batch](https://discord.gg/p6A3fU5y)
+
+
+## 21. **21st Roza- Practice on EDA analysis on your Dataset by revising previous lectures**
+
+You can also watch the following [playlist](https://youtube.com/playlist?list=PL9XvIvvVL50H2YCvuZklqjBiqsJt_0KWI) to practice statistics for Data Science.
+
+Click here to watch the lectures:\
+[<img src="./resources_ramzan_batch/thumbnails/21.png" width="42%">](https://youtube.com/playlist?list=PL9XvIvvVL50H2YCvuZklqjBiqsJt_0KWI "Statistics for Data Science ka Yoga")
+
+## 22. **22nd Roza- Mathematics for Data Science**
+
+> You can learn Mathematics for Data Science from following playlist, which will be necesaary for your growth in Data Science filed.
+
+Click here to watch the lectures:\  
+[<img src="./resources_ramzan_batch/thumbnails/22.png" width="42%">](https://youtube.com/playlist?list=PL9XvIvvVL50G3-_NMFreX72zbICK9-NW- "Mathematics for Data Science")
+
+## 23. **23rd Roza- Practice**
+
+Practice on EDA Analysis with previous lectrues
+
+## 24. **24th Roza- Question Answers and Details of ROADmap**
+
+(Coming soon)
+
+## **Bonus courses:**
+
+The whole python ka chilla 2023 for data science (Free main) is at this [link](shorturl.at/OUY05).
+
+
+---
+# **Information about the instructor:**
+
+[<img src="./resources/../resources_ramzan_batch/thumbnails/aammar.jpeg" width="50%">](https://www.facebook.com/groups/codanics/permalink/1872283496462303/ "Image")
+
+
+
+**Dr. Muhammad Aammar Tufail**
+
+PhD Data Science in Agriculture
+
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="50" height="50">](https://www.youtube.com/channel/UCmNXJXWONLNF6bdftGY0Otw/)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="50" height="50">](https://www.linkedin.com/in/dr-muhammad-aammar-tufail-02471213b/)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="50" height="50">](https://github.com/AammarTufail)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg" width="50" height="50">](https://twitter.com/aammar_tufail)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/facebook.svg" width="50" height="50">](https://www.facebook.com/groups/codanics/permalink/1872283496462303/)
+
+
+
+For any query
+
+contact: aammar@codanics.com
