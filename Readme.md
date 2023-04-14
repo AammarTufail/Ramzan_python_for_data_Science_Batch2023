@@ -1,5 +1,38 @@
 # Ramazan2023-Data Science with Python Batch
 
+- [Ramazan2023-Data Science with Python Batch](#ramazan2023-data-science-with-python-batch)
+  - [**What will you learn in this course:**](#what-will-you-learn-in-this-course)
+  - [**Who is this course for:**](#who-is-this-course-for)
+  - [**Resources, Books and Blogs Links:**](#resources-books-and-blogs-links)
+  - [**Important note:**](#important-note)
+  - [1. **Pehla Roza**](#1-pehla-roza)
+  - [2. **Dusra Roza**](#2-dusra-roza)
+  - [3. **Teesra Roza**](#3-teesra-roza)
+  - [4. **Chautha Roza**](#4-chautha-roza)
+  - [5. **5th Roza**](#5-5th-roza)
+  - [6. **6th Roza**](#6-6th-roza)
+  - [7. **7th Roza**](#7-7th-roza)
+  - [8. **8th Roza**](#8-8th-roza)
+  - [9. **9th Roza**](#9-9th-roza)
+  - [10. **10th Roza**](#10-10th-roza)
+  - [11. **11th Roza**](#11-11th-roza)
+  - [12. **12th Roza**](#12-12th-roza)
+  - [13. **13th Roza**](#13-13th-roza)
+  - [14. **14th Roza**](#14-14th-roza)
+  - [15. **15th Roza - Doing EDA in Python**](#15-15th-roza---doing-eda-in-python)
+  - [16. **16th Roza- Step by Step EDA on Big Dataset (1/4)**](#16-16th-roza--step-by-step-eda-on-big-dataset-14)
+  - [17. **17th Roza- Step by Step EDA on Big Dataset (2/4)**](#17-17th-roza--step-by-step-eda-on-big-dataset-24)
+  - [18. **18th Roza- Step by Step EDA on Big Dataset (3/4)**](#18-18th-roza--step-by-step-eda-on-big-dataset-34)
+  - [19. **19th Roza- Step by Step EDA on Big Dataset (4/4)**](#19-19th-roza--step-by-step-eda-on-big-dataset-44)
+  - [20. **20th Roza- Practice on EDA analysis on your Dataset**](#20-20th-roza--practice-on-eda-analysis-on-your-dataset)
+  - [21. **21st Roza- Practice on EDA analysis on your Dataset by revising previous lectures**](#21-21st-roza--practice-on-eda-analysis-on-your-dataset-by-revising-previous-lectures)
+  - [22. **22nd Roza- Mathematics for Data Science**](#22-22nd-roza--mathematics-for-data-science)
+  - [23. **23rd Roza- Practice**](#23-23rd-roza--practice)
+  - [24. **24th Roza- Question Answers and Details of ROADmap**](#24-24th-roza--question-answers-and-details-of-roadmap)
+- [**Bonus courses**](#bonus-courses)
+- [**Information about the instructor:**](#information-about-the-instructor)
+
+
 ## **What will you learn in this course:**
 
 - Introduction to Data Science
@@ -282,9 +315,9 @@ Practice on EDA Analysis with previous lectrues
 
 (Coming soon)
 
-## **Bonus courses:**
+# **Bonus courses**
 
-The whole python ka chilla 2023 for data science (Free main) is at this [link](shorturl.at/OUY05).
+The whole python ka chilla 2023 for data science (Free main) is at this [link](shorturl.at/OUY05)
 
 
 ---
