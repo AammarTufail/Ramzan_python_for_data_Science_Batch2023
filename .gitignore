@@ -1,4 +1,5 @@
 *.csv
 *.zip
-eda_complete.ipynb
-eda_night.ipynb
+./eda_complete.ipynb
+./eda_night.ipynb
+./eda_report.html
